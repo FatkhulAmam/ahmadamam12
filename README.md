@@ -1,5 +1,11 @@
 # Hi there 👋, i'm Amam!!
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/ahmadamam12" />
+</p>
+
 <!--
 **ahmadAmam12/ahmadamam12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
