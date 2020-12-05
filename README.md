@@ -7,6 +7,11 @@
     <img src="https://gpvc.arturio.dev/ahmadamam12" />
 </p>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadamam12&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadamam12&layout=compact" height=180 />
+</p>
+
 <!--
 **ahmadAmam12/ahmadamam12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
